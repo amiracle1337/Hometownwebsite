@@ -1,0 +1,125 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+img {
+    width: 100px;
+}
+
+.hero-section {
+    background-image: url(images/sthlm-view.jpg);
+    padding-bottom: 150px;
+    padding-top: 250px;
+    margin-top: -80px;
+    background-size: cover;
+    
+}
+
+.hero-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#hero-headline {
+    font-size: 60px;
+    background-color: rgba(0,0,0,.5);
+    color: #fff;
+    margin: 0px 70px;
+    padding: 4px;
+    border-radius: 6px;
+}
+
+#hero-subheadline {
+    background-color: rgba(0,0,0,.5);
+    color: white;
+    font-size: 20px;
+    margin: 20px 105px;
+    padding: 4px;
+    border-radius: 6px;
+}
+
+#activity-headline {
+    font-size: 45px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.activity-card {
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.column-images {
+    border-radius: 12px; 
+    width: 250px;
+    height: 200px;
+}
+
+.column-card-headline {
+    font-size: 25px;
+}
+
+.column-paragraph {
+    text-align: center;
+    margin-top: -50px; 
+    padding: 25px;
+    font-size: 20px;
+}
+
+.guide-section {
+    height: 320px;
+    border-radius: 22px;
+    box-shadow: 0 0 100px #949494;
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 100px;
+    padding: auto;
+}
+
+
+#mirropic {
+    height: 210px;
+    width: 120px;
+    margin-left: 100px;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+
+
+#guide-headline {
+    margin-top: 60px;
+    font-size: 25px;
+}
+
+#guide-paragraph {
+    margin-top: -40px;
+    padding: 40px;
+}
+
+#guide-subheadline {
+    margin-top: -30px;
+    font-style: italic
+}
+
+#guide-card {
+    margin: atuo;
+}
+
+#lallish {
+    font-size: 10px;
+    font-style: italic;
+}
+
+.loli {
+    text-decoration: underline black 1px;
+}
